@@ -43,3 +43,4 @@ tests/testUnitVector3d
 tests/testVector3d
 tests/.cache/*
 ups/*.cfgc
+build/*
